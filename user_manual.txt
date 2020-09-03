@@ -1,0 +1,18 @@
+user manual:
+click 'right' button of mouse : Teacher's introduction lecture will be played
+click 'left' button of mouse :  Teacher will take feedback from students
+Press '1' button of keyboard: Teacher will rotate 180 degree
+Press '2' button of keyboard: Teacher will rotate again 180 degree
+Press 'q' button of keyboard: One student will stand up and will ask a question
+Press 'a' button of keyboard: Teacher will give a reply of that question 
+Press 'o' button of keyboard: Teacher will able to write 'o' on the whiteboard
+Press 'p' button of keyboard: Teacher will able to write 'p' on the whiteboard
+Press 'e' button of keyboard: Teacher will able to write 'e' on the whiteboard
+Press 'n' button of keyboard: Teacher will able to write 'n' on the whiteboard
+Press 'g' button of keyboard: Teacher will able to write 'g' on the whiteboard
+Press 'l' button of keyboard: Teacher will able to write 'l' on the whiteboard
+
+please follow the following steps:
+click 'right' button -> press 'q' -> press 'a'->press '1' -> press 'o' ->press 'p' ->
+press 'e' ->press 'n' ->press 'g' ->press 'l' ->press '2' -> click 'left' button
+ 
